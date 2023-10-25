@@ -1,6 +1,8 @@
 # BCG-IncomeQualification-MachineLearning
 Machine Learning Project for BCG Rise 2.0
 
+You can also find my post on Medium with additional commentary here https://medium.com/@jonathanjamesjie/bcg-rise-da-2-0-machine-learning-project-income-qualification-e4ad3b91a654
+
 DESCRIPTION 
 
 Identify the level of income qualification needed for the families in Latin America. 
